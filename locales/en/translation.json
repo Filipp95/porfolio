@@ -1,0 +1,31 @@
+{
+    "title": "PORTFOLIO",
+    "portfolio": [
+        {
+            "link": "http://mesto.ai",
+            "name": "Mesto.ai",
+            "description": "JavaScript, React, SASS/SCSS, Адаптивная верстка, Vite, i18n",
+            "type": "Commercial project",
+            "gitHubLink": null
+        },
+        {
+            "link": "https://filipp95.github.io/toDoList/",
+            "name": "ToDo List",
+            "description": "TypeScript, React, localStorage, CSS modules",
+            "type": "Study project",
+            "gitHubLink": "https://github.com/Filipp95/toDoList"
+        },
+        {
+            "link": "https://filipp95.github.io/stocks-portfolio-overview/",
+            "name": "Crypto Portfolio",
+            "description": "JavaScript, React, Redux, localStorage, react-window, CSS modules",
+            "type": "Study project",
+            "gitHubLink": "https://github.com/Filipp95/stocks-portfolio-overview"
+        }
+    ],
+    "githubProfileImage": "GitHub Profile Image",
+    "browserImage": "Browser Image",
+    "projectType": "Type of project:",
+    "stack": "Tech stack:",
+    "githubProjectImage": "GitHub Project Image"
+}
