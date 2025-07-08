@@ -4,7 +4,7 @@
         {
             "link": "http://mesto.ai",
             "name": "Mesto.ai",
-            "description": "TypeScript, React, SCSS, Responsive Web Design, clsx, Vite",
+            "description": "TypeScript, React, Redux, SCSS, Responsive Web Design, clsx, Vite, Vitest",
             "type": "Commercial project",
             "gitHubLink": null
         },
