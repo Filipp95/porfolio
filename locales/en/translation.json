@@ -4,7 +4,7 @@
         {
             "link": "http://mesto.ai",
             "name": "Mesto.ai",
-            "description": "JavaScript, React, SASS/SCSS, Адаптивная верстка, Vite, i18n",
+            "description": "TypeScript, React, SCSS, Адаптивная верстка, clsx, Vite",
             "type": "Commercial project",
             "gitHubLink": null
         },
